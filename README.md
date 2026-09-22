@@ -156,4 +156,3 @@ Nếu doanh nghiệp cần thực hiện hồ sơ **đăng ký môi trường**,
 
 **Công ty Môi trường Hợp Nhất** cung cấp các giải pháp và dịch vụ môi trường cho doanh nghiệp, bao gồm tư vấn hồ sơ môi trường, xử lý nước thải, các giải pháp kỹ thuật môi trường và những dịch vụ liên quan.
 
-**Green Solutions for a Net-Zero Vietnam**
