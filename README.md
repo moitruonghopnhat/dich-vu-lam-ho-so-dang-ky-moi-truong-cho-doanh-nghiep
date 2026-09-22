@@ -78,7 +78,7 @@ Theo **Khoản 4, Điều 49, Luật Bảo vệ môi trường 2020**, nội dun
 
 ### Cơ quan tiếp nhận theo quy định mới
 
-Theo nội dung tài liệu gốc dẫn chiếu **Nghị quyết số 66.19/2026/NQ-CP**, dự án đầu tư hoặc cơ sở thuộc đối tượng phải đăng ký môi trường thực hiện như sau:
+Theo **Nghị quyết số 66.19/2026/NQ-CP**, dự án đầu tư hoặc cơ sở thuộc đối tượng phải đăng ký môi trường thực hiện như sau:
 
 | Trường hợp | Cơ quan thực hiện đăng ký môi trường |
 |---|---|
@@ -87,7 +87,7 @@ Theo nội dung tài liệu gốc dẫn chiếu **Nghị quyết số 66.19/2026
 
 ![Đăng ký môi trường theo quy định mới](https://moitruonghopnhat.com/uploads/images/Dich-vu/dang-ky-moi-truong-teho-quy-dinh-moi.jpg)
 
-> **Lưu ý:** Nội dung pháp lý trong tài liệu Markdown này được chuyển đổi từ file nguồn do người dùng cung cấp. Khi áp dụng cho một dự án cụ thể, doanh nghiệp nên đối chiếu văn bản pháp luật hiện hành và tình trạng thực tế của dự án/cơ sở.
+> **Lưu ý:** Nội dung trong bài viết chỉ mang tính chất tham khảo tại thời điểm các quy định về môi trường có hiệu lực. Khi áp dụng cho một dự án cụ thể, doanh nghiệp nên đối chiếu văn bản pháp luật hiện hành và tình trạng thực tế của dự án/cơ sở.
 
 ---
 
